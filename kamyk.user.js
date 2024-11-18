@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.21
 // @description  try to take over the world!
-// @author       Slatya - edit by Mateoo, Pan Doritos    
+// @author       Slatya - edit by Mateoo, Pan Doritos
 // @match        *.margonem.pl/
 // @icon         https://micc.garmory-cdn.cloud/obrazki/itemy/neu/kamien3.gif
 // @grant        none
@@ -16,7 +16,6 @@
 !function() {
     const config = {
       //Tytani
-        
 //orla
 "189":"https://micc.garmory-cdn.cloud/obrazki/npc/tyt/dziewicza_orlica.gif",
 //kic
