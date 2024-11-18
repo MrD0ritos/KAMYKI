@@ -3,8 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the world!
-// @author       Slatya
-// @edit         Mateoo, Pan Doritos
+// @author       Slatya - edit by Mateoo, Pan Doritos    
 // @match        *.margonem.pl/
 // @icon         https://micc.garmory-cdn.cloud/obrazki/itemy/neu/kamien3.gif
 // @grant        none
