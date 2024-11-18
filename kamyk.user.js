@@ -17,6 +17,7 @@
 !function() {
     const config = {
       //Tytani
+        //TANROTH ERSGSDHRSDHSDRH
 //orla
 "189":"https://micc.garmory-cdn.cloud/obrazki/npc/tyt/dziewicza_orlica.gif",
 //kic
