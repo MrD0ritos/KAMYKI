@@ -8,6 +8,8 @@
 // @match        *.margonem.pl/
 // @icon         https://micc.garmory-cdn.cloud/obrazki/itemy/neu/kamien3.gif
 // @grant        none
+// @updateURL  https://raw.githubusercontent.com/MrD0ritos/KAMYKI/main/kamyk.user.js
+// @downloadURL https://raw.githubusercontent.com/MrD0ritos/KAMYKI/main/kamyk.user.js
 // ==/UserScript==
 
 // tpStoneOverlay - pokazywanie obrazków na teleportach do wybranych map
