@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kamyki
 // @namespace    http://tampermonkey.net/
-// @version      0.21
+// @version      0.22
 // @description  try to take over the world!
 // @author       Slatya - edit by Mateoo, Pan Doritos
 // @match        *.margonem.pl/
