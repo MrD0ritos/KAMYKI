@@ -250,7 +250,8 @@
 "6535":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/kam_olbrzym-b.gif",
 //Kozug
 "3436":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll12.gif",
-        "3437":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll12.gif",
+//Kozug2
+"3437":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll12.gif",
 //gnoll vari
 "333":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll11.gif",
 //owadzia
