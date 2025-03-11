@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Kamyki
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/MrD0ritos/KAMYKI/
 // @version      0.22
 // @description  try to take over the world!
 // @author       Slatya - edit by Mateoo, Pan Doritos
