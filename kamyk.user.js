@@ -8,7 +8,7 @@
 // @match        *.margonem.com/
 // @icon         https://micc.garmory-cdn.cloud/obrazki/itemy/neu/kamien3.gif
 // @grant        none
-// @updateURL  https://raw.githubusercontent.com/MrD0ritos/KAMYKI/main/kamyk.user.js
+// @updateURL  https://github.com/MrD0ritos/KAMYKI/blob/main/kamyk.user.js
 // @downloadURL https://raw.githubusercontent.com/MrD0ritos/KAMYKI/main/kamyk.user.js
 // ==/UserScript==
 
