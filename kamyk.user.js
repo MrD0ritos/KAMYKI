@@ -26,7 +26,7 @@
 //arcy
 "7060":"https://micc.garmory-cdn.cloud/obrazki/npc/tyt/archdemon.gif",
 //zoons
-"6478":"https://micc.garmory-cdn.cloud/obrazki/npc/tyt/titangoblin.gif",
+"7477":"https://micc.garmory-cdn.cloud/obrazki/npc/tyt/versus-zoons.gif",
 //łowka
 "6477":"https://micc.garmory-cdn.cloud/obrazki/npc/tyt/lowcz-wspo-driady.gif",
 //przyzy
@@ -164,9 +164,9 @@
 //adariel
 "1322":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/tri_adariel.gif",
 //goons
-"359":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/mechgoblin4.gif",
+"7474":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/goons_asterus-1a.gif",
 //worundiel
-"1276":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/worundriel02.gif",
+"7466":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/worundriel02.gif",
 //stworek
 "7375":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/stworzyciel.gif",
 //eol
@@ -175,10 +175,12 @@
 "7357":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/osmiornica-1b.gif",
 //byk
 "7368":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/ingotia_minotaur-7a.gif",
+//Fodug
+"7441":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/fodug_zolash.gif",        
+//Sheba
+"5851":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/r_orc_sheba.gif",        
 //amuno
-"1712":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/amuno.gif",
-//amuno2
-"3265":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/amuno.gif",
+"7454":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/amuno.gif",
 //gruber
 "6955":"https://micc.garmory-cdn.cloud/obrazki/npc/e2/grubber-ochlaj.gif",
 //burek
