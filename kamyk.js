@@ -1,17 +1,3 @@
-// ==UserScript==
-// @name         Kamyki
-// @namespace    https://github.com/MrD0ritos/KAMYKI/
-// @version      0.23
-// @description  try to take over the world!
-// @author       Slatya - edit by Mateoo, Pan Doritos
-// @match        *.margonem.pl/
-// @match        *.margonem.com/
-// @icon         https://micc.garmory-cdn.cloud/obrazki/itemy/neu/kamien3.gif
-// @grant        none
-// @updateURL  https://github.com/MrD0ritos/KAMYKI/blob/main/kamyk.user.js
-// @downloadURL https://raw.githubusercontent.com/MrD0ritos/KAMYKI/main/kamyk.user.js
-// ==/UserScript==
-
 // tpStoneOverlay - pokazywanie obrazków na teleportach do wybranych map
 
 !function() {
